@@ -1,0 +1,37 @@
+<html>
+<head>
+<title>animal conservation</title>
+<style>
+h1 {color=lightblue;}
+<table>
+<th>
+<tr>domestic animals</tr>
+<tr>wild animals</tr>
+</th>
+<td>
+<tr>dog</tr>
+<tr>tiger</tr>
+</td>
+<td>
+<tr>cat</tr>
+<tr>lion</tr>
+</td>
+<td>
+<tr>goat</tr>
+<tr>wolf</tr>
+</td>
+<td>
+<tr>cow</tr
+<tr>gazzelle</tr>
+</td>
+</table>
+body{background-image:(url"");}
+</styl>
+</head>
+<body>
+<h1>Animals</h1>
+<h3>animals are bodies which look different from ours but live the same living as us.home.food.eat.sleep.
+even though we and animals are much alike,we are much more smarter than them.
+some animals are domestic and some are wild.
+</body>
+</html>
